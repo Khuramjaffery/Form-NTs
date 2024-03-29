@@ -145,6 +145,24 @@
           text-align: justify;
           font-size:22px;
       }
+      #sizes{
+   
+        align-items: center;
+        justify-content: center;
+        width: 35%;
+        border: 1px solid #ddd;
+        outline: 0;
+        padding:9px;
+        border-radius: 3px;
+        background-color: while;
+        border: none;
+        border-radius: 20px;
+        font-size: 18px;
+        text-transform: capitalize;
+        transition: all;
+        cursor: pointer;
+    
+    }
   }
   
   
@@ -219,6 +237,24 @@
           text-align: justify;
           font-size:22px;
       }
+      #sizes{
+   
+        align-items: center;
+        justify-content: center;
+        width: 35%;
+        border: 1px solid #ddd;
+        outline: 0;
+        padding:9px;
+        border-radius: 3px;
+        background-color: while;
+        border: none;
+        border-radius: 20px;
+        font-size: 18px;
+        text-transform: capitalize;
+        transition: all;
+        cursor: pointer;
+    
+    }
   }
   
   @media  only screen  and (max-width:300px){
@@ -292,6 +328,24 @@
           text-align: justify;
           font-size:22px;
       }
+      #sizes{
+   
+        align-items: center;
+        justify-content: center;
+        width: 40%;
+        border: 1px solid #ddd;
+        outline: 0;
+        padding:9px;
+        border-radius: 3px;
+        background-color: while;
+        border: none;
+        border-radius: 20px;
+        font-size: 18px;
+        text-transform: capitalize;
+        transition: all;
+        cursor: pointer;
+    
+    }
   }
   .error{
     color: red;
@@ -304,7 +358,7 @@
    
     align-items: center;
     justify-content: center;
-    width: 300px;
+    width: 35%;
     border: 1px solid #ddd;
     outline: 0;
     padding:9px;
